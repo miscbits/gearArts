@@ -2,4 +2,5 @@
 venv
 *.pyc
 wsgi.py
-__init__
+__init__.py
+
