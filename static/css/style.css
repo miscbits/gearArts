@@ -1,0 +1,8 @@
+#page-wrapper {
+    text-align: center;
+}
+
+#page-wrapper div {
+    margin: 35vh auto;
+    height: 30vh
+}
