@@ -6,3 +6,7 @@
     margin: 35vh auto;
     height: 30vh
 }
+
+#page-wrapper div img {
+    width: initial;
+}
